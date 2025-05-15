@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 - Belum ada
 
+## [2.7] - 15-05-2025
+
+### Added
+
+- [Java Saturation](https://www.curseforge.com/minecraft-bedrock/addons/raiyons-java-saturation-regeneration).
+
 ## [2.6] - 14-05-2025
 
 ### Added
@@ -69,7 +75,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - [Tree Capitator](https://www.curseforge.com/minecraft-bedrock/addons/raiyons-tree-capitator-addon).
 - [Vein Miner](https://mcpedl.com/yet-another-vein-miner/).
 - [Realistic Biomes](https://www.nexusmods.com/minecraftbedrockedition/mods/67).
-- [Action and Stuff](https://www.nexusmods.com/minecraftbedrockedition/mods/38?tab=description)
+- [Action and Stuff](https://www.nexusmods.com/minecraftbedrockedition/mods/38?tab=description).
 - Dynamic Light (Gw lupa download yang mana)
 
 ## [1.0] - 03-05-2025
