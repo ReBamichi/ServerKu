@@ -1,12 +1,25 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this server will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
-- Belum ada
+- Belum tau
+
+## [2.8] - 16-05-2025
+
+### Added
+
+- [Useful Farming](https://www.curseforge.com/minecraft-bedrock/addons/useful-farming/files/all?page=1&pageSize=20).
+  requested by Iqbal
+
+### Removed
+
+- RPG Damage Indicator (Ganggu wwkwk).
+  requested by Iqbal
+
 
 ## [2.7] - 15-05-2025
 
@@ -31,7 +44,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Removed
 
-- Realistic Biomes (Bikin Ngelag ??)
+- Realistic Biomes (Bikin Ngelag ??).
   
 ## [2.3] - 09-05-2025
 
@@ -47,7 +60,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Removed
 
-- Minimap (Rusak Jir)
+- Minimap (Rusak Jir).
 
 ## [2.1] - 08-05-2025
 
@@ -66,7 +79,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Removed
 
-- Action and Stuff (bye bye)
+- Action and Stuff (bye bye).
 
 ## [1.1] - 03-05-2025
 
@@ -76,7 +89,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - [Vein Miner](https://mcpedl.com/yet-another-vein-miner/).
 - [Realistic Biomes](https://www.nexusmods.com/minecraftbedrockedition/mods/67).
 - [Action and Stuff](https://www.nexusmods.com/minecraftbedrockedition/mods/38?tab=description).
-- Dynamic Light (Gw lupa download yang mana)
+- Dynamic Light (Gw lupa download yang mana).
 
 ## [1.0] - 03-05-2025
 
